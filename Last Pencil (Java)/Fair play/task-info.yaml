@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/lastpencil/Main.java
+    visible: true
+  - name: test/LastPencilTest.java
+    visible: false
+feedback_link: https://hyperskill.org/projects/341/stages/2008/implement#comment
